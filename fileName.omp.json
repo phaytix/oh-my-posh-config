@@ -63,7 +63,7 @@
           "type": "python"
         },
         {
-          "foreground": "lightGreen",
+          "foreground": "white",
           "style": "plain",
           "template": "| {{ .CurrentDate | date .Format }} ",
           "type": "time"
